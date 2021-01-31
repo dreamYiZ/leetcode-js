@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twoSum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamYiZ/leetcode-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamYiZ/leetcode-js/issues"
+  },
+  "homepage": "https://github.com/dreamYiZ/leetcode-js#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
